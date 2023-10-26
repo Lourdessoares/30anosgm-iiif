@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://memóriagm.app//4/1cee8d70c62d2bc552608d2398e2662f",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "width": 256
+    }
+  ],
+  "width": 5568,
+  "height": 3712,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 200
+    },
+    {
+      "width": 2000,
+      "height": 1333
+    }
+  ]
+}

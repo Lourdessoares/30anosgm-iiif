@@ -1,0 +1,92 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://memóriagm.app//9/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Operação centro"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Lu Freitas"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2022"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://memóriagm.app//9/50012ea2ad6f7a02b369c1e83ca3e481/full/300,200/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 200,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://memóriagm.app//9/canvas/0",
+            "type": "Canvas",
+            "height": 3817,
+            "width": 5725,
+            "items": [
+                {
+                    "id": "https://memóriagm.app//9/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://memóriagm.app//9/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://memóriagm.app//9/canvas/0",
+                            "body": {
+                                "id": "https://memóriagm.app//9/50012ea2ad6f7a02b369c1e83ca3e481/full/2000,1333/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1333,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://memóriagm.app//9/50012ea2ad6f7a02b369c1e83ca3e481",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

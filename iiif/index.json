@@ -1,0 +1,111 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://memóriagm.app//index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "GM 30 anos"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://memóriagm.app//7/bc5f6e94e7eeec0f04e18e288e6e82a8/full/200,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 200
+        }
+    ],
+    "items": [
+        {
+            "id": "https://memóriagm.app//7/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Espaço"
+                ]
+            }
+        },
+        {
+            "id": "https://memóriagm.app//4/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Evento"
+                ]
+            }
+        },
+        {
+            "id": "https://memóriagm.app//10/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Guarda"
+                ]
+            }
+        },
+        {
+            "id": "https://memóriagm.app//6/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Guarda Fem"
+                ]
+            }
+        },
+        {
+            "id": "https://memóriagm.app//5/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Guardas"
+                ]
+            }
+        },
+        {
+            "id": "https://memóriagm.app//3/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Operação"
+                ]
+            }
+        },
+        {
+            "id": "https://memóriagm.app//9/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Operação centro"
+                ]
+            }
+        },
+        {
+            "id": "https://memóriagm.app//8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Patimônio"
+                ]
+            }
+        },
+        {
+            "id": "https://memóriagm.app//2/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Viatura 2"
+                ]
+            }
+        },
+        {
+            "id": "https://memóriagm.app//1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Viatura 2"
+                ]
+            }
+        }
+    ]
+}

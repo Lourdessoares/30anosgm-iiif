@@ -1,0 +1,92 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://memóriagm.app//5/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Guardas"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Lu Freitas"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2022"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://memóriagm.app//5/e6bfbab01a8c1362899b9907cd12bf7e/full/300,205/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 205,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://memóriagm.app//5/canvas/0",
+            "type": "Canvas",
+            "height": 3781,
+            "width": 5536,
+            "items": [
+                {
+                    "id": "https://memóriagm.app//5/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://memóriagm.app//5/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://memóriagm.app//5/canvas/0",
+                            "body": {
+                                "id": "https://memóriagm.app//5/e6bfbab01a8c1362899b9907cd12bf7e/full/2000,1366/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1366,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://memóriagm.app//5/e6bfbab01a8c1362899b9907cd12bf7e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

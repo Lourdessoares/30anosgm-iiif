@@ -1,0 +1,92 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://memóriagm.app//2/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Viatura 2"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Lu Freitas"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2022"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://memóriagm.app//2/8bf829ac8b6237558017c59cc4306506/full/300,200/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 200,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://memóriagm.app//2/canvas/0",
+            "type": "Canvas",
+            "height": 2942,
+            "width": 4410,
+            "items": [
+                {
+                    "id": "https://memóriagm.app//2/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://memóriagm.app//2/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://memóriagm.app//2/canvas/0",
+                            "body": {
+                                "id": "https://memóriagm.app//2/8bf829ac8b6237558017c59cc4306506/full/2000,1334/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1334,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://memóriagm.app//2/8bf829ac8b6237558017c59cc4306506",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
