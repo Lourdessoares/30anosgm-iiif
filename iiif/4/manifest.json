@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://memoriagm.vercel/4/manifest.json",
+    "id": "https://memoriagm.vercel.app/4/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -35,7 +35,7 @@
     ],
     "thumbnail": [
         {
-            "id": "https://memoriagm.vercel/4/96b8da5381c94f792f0ae86ac3fec69a/full/300,205/0/default.jpg",
+            "id": "https://memoriagm.vercel.app/4/96b8da5381c94f792f0ae86ac3fec69a/full/300,205/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 205,
@@ -55,29 +55,29 @@
     ],
     "items": [
         {
-            "id": "https://memoriagm.vercel/4/canvas/0",
+            "id": "https://memoriagm.vercel.app/4/canvas/0",
             "type": "Canvas",
             "height": 3505,
             "width": 5138,
             "items": [
                 {
-                    "id": "https://memoriagm.vercel/4/canvas/0/annotation-page",
+                    "id": "https://memoriagm.vercel.app/4/canvas/0/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://memoriagm.vercel/4/annotation/0",
+                            "id": "https://memoriagm.vercel.app/4/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://memoriagm.vercel/4/canvas/0",
+                            "target": "https://memoriagm.vercel.app/4/canvas/0",
                             "body": {
-                                "id": "https://memoriagm.vercel/4/96b8da5381c94f792f0ae86ac3fec69a/full/2000,1364/0/default.jpg",
+                                "id": "https://memoriagm.vercel.app/4/96b8da5381c94f792f0ae86ac3fec69a/full/2000,1364/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1364,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "https://memoriagm.vercel/4/96b8da5381c94f792f0ae86ac3fec69a",
+                                        "id": "https://memoriagm.vercel.app/4/96b8da5381c94f792f0ae86ac3fec69a",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -89,29 +89,29 @@
             ]
         },
         {
-            "id": "https://memoriagm.vercel/4/canvas/1",
+            "id": "https://memoriagm.vercel.app/4/canvas/1",
             "type": "Canvas",
             "height": 3712,
             "width": 5568,
             "items": [
                 {
-                    "id": "https://memoriagm.vercel/4/canvas/1/annotation-page",
+                    "id": "https://memoriagm.vercel.app/4/canvas/1/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://memoriagm.vercel/4/annotation/1",
+                            "id": "https://memoriagm.vercel.app/4/annotation/1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://memoriagm.vercel/4/canvas/1",
+                            "target": "https://memoriagm.vercel.app/4/canvas/1",
                             "body": {
-                                "id": "https://memoriagm.vercel/4/1cee8d70c62d2bc552608d2398e2662f/full/2000,1333/0/default.jpg",
+                                "id": "https://memoriagm.vercel.app/4/1cee8d70c62d2bc552608d2398e2662f/full/2000,1333/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1333,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "https://memoriagm.vercel/4/1cee8d70c62d2bc552608d2398e2662f",
+                                        "id": "https://memoriagm.vercel.app/4/1cee8d70c62d2bc552608d2398e2662f",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -123,29 +123,29 @@
             ]
         },
         {
-            "id": "https://memoriagm.vercel/4/canvas/2",
+            "id": "https://memoriagm.vercel.app/4/canvas/2",
             "type": "Canvas",
             "height": 3712,
             "width": 5568,
             "items": [
                 {
-                    "id": "https://memoriagm.vercel/4/canvas/2/annotation-page",
+                    "id": "https://memoriagm.vercel.app/4/canvas/2/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://memoriagm.vercel/4/annotation/2",
+                            "id": "https://memoriagm.vercel.app/4/annotation/2",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://memoriagm.vercel/4/canvas/2",
+                            "target": "https://memoriagm.vercel.app/4/canvas/2",
                             "body": {
-                                "id": "https://memoriagm.vercel/4/c90380cbecc433231b55aa6dd9a9debe/full/2000,1333/0/default.jpg",
+                                "id": "https://memoriagm.vercel.app/4/c90380cbecc433231b55aa6dd9a9debe/full/2000,1333/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1333,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "https://memoriagm.vercel/4/c90380cbecc433231b55aa6dd9a9debe",
+                                        "id": "https://memoriagm.vercel.app/4/c90380cbecc433231b55aa6dd9a9debe",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -157,29 +157,29 @@
             ]
         },
         {
-            "id": "https://memoriagm.vercel/4/canvas/3",
+            "id": "https://memoriagm.vercel.app/4/canvas/3",
             "type": "Canvas",
             "height": 3712,
             "width": 5568,
             "items": [
                 {
-                    "id": "https://memoriagm.vercel/4/canvas/3/annotation-page",
+                    "id": "https://memoriagm.vercel.app/4/canvas/3/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://memoriagm.vercel/4/annotation/3",
+                            "id": "https://memoriagm.vercel.app/4/annotation/3",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://memoriagm.vercel/4/canvas/3",
+                            "target": "https://memoriagm.vercel.app/4/canvas/3",
                             "body": {
-                                "id": "https://memoriagm.vercel/4/287d98636ea5268c84baece8cc4f3f95/full/2000,1333/0/default.jpg",
+                                "id": "https://memoriagm.vercel.app/4/287d98636ea5268c84baece8cc4f3f95/full/2000,1333/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1333,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "https://memoriagm.vercel/4/287d98636ea5268c84baece8cc4f3f95",
+                                        "id": "https://memoriagm.vercel.app/4/287d98636ea5268c84baece8cc4f3f95",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -191,29 +191,29 @@
             ]
         },
         {
-            "id": "https://memoriagm.vercel/4/canvas/4",
+            "id": "https://memoriagm.vercel.app/4/canvas/4",
             "type": "Canvas",
             "height": 3712,
             "width": 5568,
             "items": [
                 {
-                    "id": "https://memoriagm.vercel/4/canvas/4/annotation-page",
+                    "id": "https://memoriagm.vercel.app/4/canvas/4/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://memoriagm.vercel/4/annotation/4",
+                            "id": "https://memoriagm.vercel.app/4/annotation/4",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://memoriagm.vercel/4/canvas/4",
+                            "target": "https://memoriagm.vercel.app/4/canvas/4",
                             "body": {
-                                "id": "https://memoriagm.vercel/4/2fd51000bcf6bf016dc3462a4c694eee/full/2000,1333/0/default.jpg",
+                                "id": "https://memoriagm.vercel.app/4/2fd51000bcf6bf016dc3462a4c694eee/full/2000,1333/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1333,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "https://memoriagm.vercel/4/2fd51000bcf6bf016dc3462a4c694eee",
+                                        "id": "https://memoriagm.vercel.app/4/2fd51000bcf6bf016dc3462a4c694eee",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
