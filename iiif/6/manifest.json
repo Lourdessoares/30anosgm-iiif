@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://memoriagm.app/6/manifest.json",
+    "id": "https://memoriagm.vercel/6/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -35,7 +35,7 @@
     ],
     "thumbnail": [
         {
-            "id": "https://memoriagm.app/6/4483d8a4c04adf13c804a8f564454a33/full/300,201/0/default.jpg",
+            "id": "https://memoriagm.vercel/6/4483d8a4c04adf13c804a8f564454a33/full/300,201/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 201,
@@ -55,29 +55,29 @@
     ],
     "items": [
         {
-            "id": "https://memoriagm.app/6/canvas/0",
+            "id": "https://memoriagm.vercel/6/canvas/0",
             "type": "Canvas",
             "height": 3584,
             "width": 5360,
             "items": [
                 {
-                    "id": "https://memoriagm.app/6/canvas/0/annotation-page",
+                    "id": "https://memoriagm.vercel/6/canvas/0/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://memoriagm.app/6/annotation/0",
+                            "id": "https://memoriagm.vercel/6/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://memoriagm.app/6/canvas/0",
+                            "target": "https://memoriagm.vercel/6/canvas/0",
                             "body": {
-                                "id": "https://memoriagm.app/6/4483d8a4c04adf13c804a8f564454a33/full/2000,1337/0/default.jpg",
+                                "id": "https://memoriagm.vercel/6/4483d8a4c04adf13c804a8f564454a33/full/2000,1337/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1337,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "https://memoriagm.app/6/4483d8a4c04adf13c804a8f564454a33",
+                                        "id": "https://memoriagm.vercel/6/4483d8a4c04adf13c804a8f564454a33",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }

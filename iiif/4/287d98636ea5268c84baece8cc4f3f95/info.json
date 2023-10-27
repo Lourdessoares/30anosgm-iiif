@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://memoriagm.app//4/287d98636ea5268c84baece8cc4f3f95",
+  "id": "https://memoriagm.vercel//4/287d98636ea5268c84baece8cc4f3f95",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",

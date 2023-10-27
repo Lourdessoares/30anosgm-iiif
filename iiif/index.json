@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://memoriagm.app/index.json",
+    "id": "https://memoriagm.vercel/index.json",
     "type": "Collection",
     "label": {
         "none": [
@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://memoriagm.app/7/bc5f6e94e7eeec0f04e18e288e6e82a8/full/200,300/0/default.jpg",
+            "id": "https://memoriagm.vercel/7/bc5f6e94e7eeec0f04e18e288e6e82a8/full/200,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "https://memoriagm.app/7/manifest.json",
+            "id": "https://memoriagm.vercel/7/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -27,7 +27,7 @@
             }
         },
         {
-            "id": "https://memoriagm.app/4/manifest.json",
+            "id": "https://memoriagm.vercel/4/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -36,7 +36,7 @@
             }
         },
         {
-            "id": "https://memoriagm.app/10/manifest.json",
+            "id": "https://memoriagm.vercel/10/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -45,7 +45,7 @@
             }
         },
         {
-            "id": "https://memoriagm.app/6/manifest.json",
+            "id": "https://memoriagm.vercel/6/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -54,7 +54,7 @@
             }
         },
         {
-            "id": "https://memoriagm.app/5/manifest.json",
+            "id": "https://memoriagm.vercel/5/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -63,7 +63,7 @@
             }
         },
         {
-            "id": "https://memoriagm.app/3/manifest.json",
+            "id": "https://memoriagm.vercel/3/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -72,7 +72,7 @@
             }
         },
         {
-            "id": "https://memoriagm.app/9/manifest.json",
+            "id": "https://memoriagm.vercel/9/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -81,7 +81,7 @@
             }
         },
         {
-            "id": "https://memoriagm.app/8/manifest.json",
+            "id": "https://memoriagm.vercel/8/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -90,7 +90,7 @@
             }
         },
         {
-            "id": "https://memoriagm.app/2/manifest.json",
+            "id": "https://memoriagm.vercel/2/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -99,7 +99,7 @@
             }
         },
         {
-            "id": "https://memoriagm.app/1/manifest.json",
+            "id": "https://memoriagm.vercel/1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
