@@ -1,6 +1,6 @@
-memoriagmapp/{
+{
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://memóriagm.app//7/manifest.json",
+    "id": "https://memoriagm.app//7/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -35,7 +35,7 @@ memoriagmapp/{
     ],
     "thumbnail": [
         {
-            "id": "https://memóriagm.app//7/bc5f6e94e7eeec0f04e18e288e6e82a8/full/200,300/0/default.jpg",
+            "id": "https://memoriagm.app//7/bc5f6e94e7eeec0f04e18e288e6e82a8/full/200,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -55,29 +55,29 @@ memoriagmapp/{
     ],
     "items": [
         {
-            "id": "https://memóriagm.app//7/canvas/0",
+            "id": "https://memoriagm.app//7/canvas/0",
             "type": "Canvas",
             "height": 6000,
             "width": 4000,
             "items": [
                 {
-                    "id": "https://memóriagm.app//7/canvas/0/annotation-page",
+                    "id": "https://memoriagm.app//7/canvas/0/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://memóriagm.app//7/annotation/0",
+                            "id": "https://memoriagm.app//7/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://memóriagm.app//7/canvas/0",
+                            "target": "https://memoriagm.app//7/canvas/0",
                             "body": {
-                                "id": "https://memóriagm.app//7/bc5f6e94e7eeec0f04e18e288e6e82a8/full/1333,2000/0/default.jpg",
+                                "id": "https://memoriagm.app//7/bc5f6e94e7eeec0f04e18e288e6e82a8/full/1333,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1333,
                                 "service": [
                                     {
-                                        "id": "https://memóriagm.app//7/bc5f6e94e7eeec0f04e18e288e6e82a8",
+                                        "id": "https://memoriagm.app//7/bc5f6e94e7eeec0f04e18e288e6e82a8",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }

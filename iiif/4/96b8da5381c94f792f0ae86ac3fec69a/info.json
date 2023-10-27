@@ -1,6 +1,6 @@
-memoriagmapp/{
+{
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://memóriagm.app//4/96b8da5381c94f792f0ae86ac3fec69a",
+  "id": "https://memoriagm.app//4/96b8da5381c94f792f0ae86ac3fec69a",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",
