@@ -1,4 +1,4 @@
-{
+memoriagmapp/{
   "@context": "http://iiif.io/api/image/3/context.json",
   "id": "https://memóriagm.app//1/c642753d7f40255935af66e80e2e41f9",
   "type": "ImageService3",

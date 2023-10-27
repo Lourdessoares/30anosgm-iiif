@@ -1,4 +1,4 @@
-{
+memoriagmapp/{
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://memóriagm.app//7/manifest.json",
     "type": "Manifest",
